@@ -2,7 +2,7 @@
 name: Epic
 about: Template for full features or milestones
 title: ''
-labels: epic, Refinement
+labels: ''
 assignees: ''
 
 ---
@@ -12,10 +12,10 @@ assignees: ''
 # Description
 
 # Dependencies
--
+- [ ] 
+
 
 # Reference documentation
--
 
 # Development Plan
 ### Spikes/Investigations

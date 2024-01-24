@@ -12,10 +12,8 @@ assignees: ''
 # Requirement (what?)
 
 # Environments (where?)
--
 
 # Links
-- 
 
 # Tasks (how?)
 - [ ]
